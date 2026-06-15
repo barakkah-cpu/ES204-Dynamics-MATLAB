@@ -78,7 +78,7 @@ Each script is self-contained with no external dependencies.
 - MATLAB
 - Numerical integration (trapezoidal method)
 - Analytical differentiation and polar coordinate kinematics
-- 
+
 ## Author
 **Barakkah Ibishomi**  
 Aerospace Engineering, Embry-Riddle Aeronautical University  
